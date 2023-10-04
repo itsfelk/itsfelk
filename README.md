@@ -8,6 +8,18 @@
           
 <a href="https://myepicwebsite.net">
 <img alt="Website" title="Visit my Website" src="https://img.shields.io/website?label=myepicwebsite.net&style=for-the-badge&url=https://myepicwebsite.net"/></a>
+<p align="center">
+
+<p align="center">
+<img title="Linode" src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white"/></a>
+<img title="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<img title="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/></a>
+
+<p align="center">
+<img title="Monero" src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"/></a>
+
+<p align="center">
+<img title=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 
  ## GitHub Analytics
  <br>
