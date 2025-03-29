@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href="https://github.com/itsfelk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsfelk&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsfelk&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide_border=true"/>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsfelk&show_icons=true&locale=en&layout=demo&theme=transparent&hide_border=true" />
 </p>
 </p>
